@@ -1,0 +1,17 @@
+
+###Saving the DIR command of JOHN in a lst file dir > dirJohn.lst####
+
+
+
+ Volume in drive C is Windows
+ Volume Serial Number is D2A5-B8EA
+
+ Directory of C:\Users\Felipe.Fonseca\PythonCourse\2_GeoSDsc-Pyth\4_PrGeoHydApp\1_commandline\John
+
+03/02/2021  12:17 PM    <DIR>          .
+03/02/2021  12:17 PM    <DIR>          ..
+03/02/2021  12:17 PM                 0 dirJohn.lst
+03/02/2021  12:16 PM               997 listjohn.txt
+03/02/2021  11:38 AM               869 newlist2.txt
+               3 File(s)          1,866 bytes
+               2 Dir(s)  173,886,083,072 bytes free

@@ -1,3 +1,8 @@
+####File moved using=> move newlist.txt John <ENTER>
+Also renamed => rename newlist.txt listjohn.txt
+###
+
+
 Then the the list.txt was copied into newlist.txt (copy list.txt newlist.txt <enter>)
 
 Below an example of how the command dir > list.txt writes directly the dir command on the txt
