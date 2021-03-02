@@ -1,0 +1,45 @@
+
+###this file was produced using copy list.txt+newlist.txt listappend.txt <ENTER>##>to append list.txt newlist.txt
+
+
+Below an example of how the command dir > list.txt writes directly the dir command on the txt
+(this was done on vim later but was put as an explanation)
+
+Volume in drive C is Windows
+ Volume Serial Number is D2A5-B8EA
+
+ Directory of C:\Users\Felipe.Fonseca\PythonCourse\2_GeoSDsc-Pyth\4_PrGeoHydApp\1_commandline
+
+03/02/2021  11:12 AM    <DIR>          .
+03/02/2021  11:12 AM    <DIR>          ..
+03/02/2021  10:06 AM    <DIR>          John
+03/02/2021  11:12 AM                 0 list.txt
+03/02/2021  10:59 AM                12 listdir.bat
+03/02/2021  09:33 AM                56 README.md
+               3 File(s)             68 bytes
+               3 Dir(s)  174,035,746,816 bytes free
+
+###this was appeneded on the list.txt using type listdir.bat >> list.txt on##
+dir /AD
+Then the the list.txt was copied into newlist.txt (copy list.txt newlist.txt <enter>)
+
+Below an example of how the command dir > list.txt writes directly the dir command on the txt
+(this was done on vim later but was put as an explanation)
+
+Volume in drive C is Windows
+ Volume Serial Number is D2A5-B8EA
+
+ Directory of C:\Users\Felipe.Fonseca\PythonCourse\2_GeoSDsc-Pyth\4_PrGeoHydApp\1_commandline
+
+03/02/2021  11:12 AM    <DIR>          .
+03/02/2021  11:12 AM    <DIR>          ..
+03/02/2021  10:06 AM    <DIR>          John
+03/02/2021  11:12 AM                 0 list.txt
+03/02/2021  10:59 AM                12 listdir.bat
+03/02/2021  09:33 AM                56 README.md
+               3 File(s)             68 bytes
+               3 Dir(s)  174,035,746,816 bytes free
+
+###this was appeneded on the list.txt using type listdir.bat >> list.txt on##
+dir /AD
+
