@@ -1,0 +1,8 @@
+##Created this txt by=> type NUL > WildCards.txt###
+
+##Filling the commands of the course
+
+dir *.txt <ENTER>
+dir *john.* <ENTER>
+dir *.??t <ENTER>
+dir *.?xt <ENTER>
