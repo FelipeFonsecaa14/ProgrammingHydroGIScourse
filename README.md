@@ -1,1 +1,1 @@
-# ProgrammingHydroGIScourse
+# Programming for Geospatial Hydrological Applications
